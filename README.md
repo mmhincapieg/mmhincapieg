@@ -14,7 +14,7 @@ My path has taken me from tropical field expeditions in the Colombian lowlands (
 ## 🚀 Right now
 
 - Leveling up data skills with the DataCamp Data Analyst with Python track (pandas & visualization)
-- Open to **data analysis and research assistant positions* in Colombia and internationally 🌍
+- Open to **data analysis and research assistant positions** in Colombia and internationally 🌍
 
 ## 📂 What you'll find here
 
