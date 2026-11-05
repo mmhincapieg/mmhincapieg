@@ -19,8 +19,8 @@ My path has taken me from tropical field expeditions in the Colombian lowlands (
 ## 📂 What you'll find here
 
 - **DataCamp_DataAnalyst_Python** — pandas & visualization projects (Netflix data, more to come 🎬)
-- **Clases_Bioinformatics** — sequence analysis & phylogenetics coursework
-- **Clases_FundProg / Clases_ControlProcesos** — programming for biology & bioprocess control coursework
+- Course assignments from my bachelor's degree, uploaded after graduation to document my learning path. They reflect where I started — not where I am now.
+- Bioinformatics pipelines and scripts from Senior Thesis: Biological Engineering Degree.
 
 ## 🛠️ Toolbox
 
