@@ -8,7 +8,8 @@ I am a **biological engineer** curious about how biotechnology, data science, an
 
 My path has taken me from tropical field expeditions in the Colombian lowlands, hunting yeast in social wasp nests, to genomic analysis of native coffee fermentation yeast, all the way to training in a laboratory at the University of Vienna.
 
-<img width="1920" height="1080" alt="github_README_header" src="https://github.com/user-attachments/assets/c62ae73d-b86b-4b96-bff4-6b7bb1537033" />
+<img width="1439" height="766" alt="github_README_header" src="https://github.com/user-attachments/assets/a9f1b659-64f5-4691-b9bb-5b7cc95d9fbb" />
+
 From data collection to data visualization
 
 > 🌍 **Currently:** Open to data analysis and research assistant positions in Colombia and internationally.
