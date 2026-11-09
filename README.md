@@ -1,9 +1,6 @@
 # ¡Hola! I'm María Manuela 👋
 ### Biological Engineer | Bioinformatics & Data Science Enthusiast 🧬💻
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=social&logo=linkedin)](www.linkedin.com/in/maria-manuela-hincapie)
-![GitHub Followers](https://github.com/mmhincapieg)
-
 I am a **biological engineer** curious about how biotechnology, data science, and bioinformatics come together to solve real-world problems — one microbe at a time. 🦠
 
 My path has taken me from tropical field expeditions in the Colombian lowlands, hunting yeast in social wasp nests, to genomic analysis of native coffee fermentation yeast, all the way to training in a laboratory at the University of Vienna.
